@@ -16,6 +16,14 @@ The editable text is previewed by the user for proofreading before sending it to
 
 The compiler then executes the code and returns appropriate output.
 
+It supports 6 languages:-
+
+* python3
+* java
+* c
+* cpp
+* php
+* ruby
 
 Screenshots of the Application :- 
 
