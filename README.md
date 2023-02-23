@@ -16,3 +16,7 @@ The editable text is previewed by the user for proofreading before sending it to
 
 The compiler then executes the code and returns appropriate output.
 
+
+Screenshots of the Application :- 
+
+![image](https://user-images.githubusercontent.com/91470808/220964546-f9bb6758-f23e-426b-9b1f-9d2561d9f351.png)
