@@ -28,3 +28,14 @@ It supports 6 languages:-
 Screenshots of the Application :- 
 
 ![image](https://user-images.githubusercontent.com/91470808/220964546-f9bb6758-f23e-426b-9b1f-9d2561d9f351.png)
+
+
+<table>
+<tr>
+<td align="center"> <img src="https://avatars.githubusercontent.com/u/91470808?v=4?s=100" width="120px;" alt=""/><br> <a href="https://github.com/kshitij01042002">Kshitij Patil</a></td>
+<td align="center"> <img src="https://avatars.githubusercontent.com/u/86038495?v=4?s=100" width="120px;" alt=""/><br> <a href="https://github.com/Rishabh-Tripathi1">Rishabh Tripathi</a></td>
+<td align="center"> <img src="https://avatars.githubusercontent.com/u/92155029?v=4?s=100" width="120px;" alt=""/><br> <a href="https://github.com/hrushikesh070902/">Hrushikesh Shetty</a></td>
+<td align="center"> <img src="https://avatars.githubusercontent.com/u/94799826?v=4?s=100" width="120px;" alt=""/><br> <a href="https://github.com/PRATHAM-SPS">Pratham Ingawale</a></td>
+</tr>
+    
+</table>
