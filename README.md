@@ -2,11 +2,15 @@
 
 **Project Contributions** :-
 
-The user can write and compile code anywhere/anytime.
+The mobile application is a powerful tool for developers and programming enthusiasts who prefer writing code on paper. With this app, users can scan their hand-written code using OCR (Optical Character Recognition) technology and compile it directly in the app, saving time and effort.
 
-One’s who have code written on paper don’t have to type it again on the machine to check the output.
+The app supports six different programming languages: Java, Python, C++, JavaScript, Swift, and Ruby. Users can choose their preferred language and the app will automatically detect the code syntax and compile it accordingly.
 
-Can verify any code snippet from notes
+The scanning process is easy and quick. Users can simply take a photo of their handwritten code using their phone camera or upload an image from their device's photo gallery. The app will then analyze the image using OCR technology, and display the code on the screen.
+
+Once the code is compiled, users can test it directly in the app, using a built-in testing environment. This feature helps users ensure that their code is functioning correctly before exporting it to their preferred development environment.
+
+Overall, this mobile application is a valuable tool for developers who prefer writing code on paper, as it eliminates the need for manual data entry and makes the code writing process more efficient.
 
 **Implementation Process** :-
 
