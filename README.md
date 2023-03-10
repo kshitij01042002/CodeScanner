@@ -4,7 +4,7 @@
 
 The mobile application is a powerful tool for developers and programming enthusiasts who prefer writing code on paper. With this app, users can scan their hand-written code using OCR (Optical Character Recognition) technology and compile it directly in the app, saving time and effort.
 
-The app supports six different programming languages: Java, Python, C++, JavaScript, Swift, and Ruby. Users can choose their preferred language and the app will automatically detect the code syntax and compile it accordingly.
+The app supports six different programming languages: Java, Python, C++, C, php, and Ruby. Users can choose their preferred language and the app will automatically detect the code syntax and compile it accordingly.
 
 The scanning process is easy and quick. Users can simply take a photo of their handwritten code using their phone camera or upload an image from their device's photo gallery. The app will then analyze the image using OCR technology, and display the code on the screen.
 
